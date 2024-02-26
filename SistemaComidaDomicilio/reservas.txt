@@ -1,0 +1,42 @@
+901160222
+Fecha de comida: 11/08/2022
+Tipo de comida: Cena
+Guarnicion 1: Arroz
+Guarnicion 2: Frijoles
+Proteína: Carne
+Ensalada: Verde
+123456789
+Fecha de comida: 11/08/2022
+Tipo de comida: Almuerzo
+Guarnicion 1: Pancakes
+Guarnicion 2: Frutas
+Proteína: Pollo
+Ensalada: Rusa
+901160222
+Fecha de comida: 08/08/2022
+Tipo de comida: Almuerzo
+Guarnicion 1: Arroz
+Guarnicion 2: Frutas
+Proteína: Carne
+Ensalada: Verde
+123456789
+Fecha de comida: 08/08/2022
+Tipo de comida: Cena
+Guarnicion 1: Frijoles
+Guarnicion 2: Pancakes
+Proteína: Pescado
+Ensalada: Rusa
+901160222
+Fecha de comida: 11/11/2023
+Tipo de comida: Desayuno
+Guarnicion 1: Arroz
+Guarnicion 2: Frijoles
+Proteína: Pescado
+Ensalada: Verde
+123456789
+Fecha de comida: 11/11/2023
+Tipo de comida: Almuerzo
+Guarnicion 1: Pancakes
+Guarnicion 2: Frijoles
+Proteína: Pollo
+Ensalada: Verde
